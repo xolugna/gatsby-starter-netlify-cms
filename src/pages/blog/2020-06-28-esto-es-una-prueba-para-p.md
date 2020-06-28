@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Esto es una prueba para P!
 date: 2020-06-28T15:05:00.987Z
 description: Esto es la desripcion del blog
-featuredpost: false
+featuredpost: true
 featuredimage: /img/blog-index.jpg
 tags:
   - P
